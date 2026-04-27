@@ -1,0 +1,16 @@
+customer_id,first_name,LAST_NAME,signup_date,age,account_balance
+001 , john ,SMITH,2023-01-15, 28,$1,500.00
+ ID-002,aLiCe,  johnson ,15/01/2023,thirty, 250.75 
+003,  BOB,Williams,Jan 20th 2023,45 ,$3,200.50
+004,emma  ,brown,02/05/2023, 22 years,100
+ID005 ,MIchael,  DaVis,2023.10.03,35,$ 5,000.00
+006, sarah, MILLER  ,12-Apr-2023,29,450.25
+ 007 ,James,wilson,April 15 2023, forty,$1,250.00 
+008,  olivia,Moore ,20/05/23, 31 ,890.50
+id-009,DaNiel ,  TAYLOR,06-15-2023,27 yrs, $ 300.00
+010 ,Sophia,Anderson  ,2023/07/01, 33,"2,100.00"
+011, matthew,THOMAS,Aug 5th 2023, thirty-two,$4,500.25
+ ID012, AVA  ,jackson ,10.09.2023,24,  750.00
+013,William, White,12/10/23, 50,$1,000
+  014,ISABELLA ,harris  ,November 20, 2023,26, $50.00 
+015, Ethan,MARTIN,Dec 1 2023, 29 ,"3,400.75"
